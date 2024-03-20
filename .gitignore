@@ -1,0 +1,12 @@
+.idea/
+node_modules/
+logs/
+.DS_Store
+.Trashes
+ipfs-upload/
+priv/
+.env
+projects/
+test.js
+aws.json
+tmp/

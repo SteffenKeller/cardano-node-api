@@ -1,0 +1,11 @@
+{
+  "name": "cardano-node-api",
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "cardanocli-js": "github:SteffenKeller/cardanocli-js",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1"
+  }
+}
